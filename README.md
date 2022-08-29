@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--# 🔭 I’m currently working on ALX SE projects
+- #🔭 I’m currently working on ALX SE projects
 - #🌱 I’m currently learning C,Python
 - #👯 I’m looking to collaborate on Shell script, C and python
 - #🤔 I’m looking for help with Js 
