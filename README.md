@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dr. Ahmed</h1>
 <h3 align="center">A passionate Medical Doctor and software engineering student with interest in solving real-world problems with Medicine/technology and dependable leadership.</h3>
 
-<p align="left"> <a href="https://twitter.com/drahmedhassen" target="blank"><img src="https://img.shields.io/twitter/follow/drahmedhassen?logo=twitter&style=for-the-<h1 align="center">Hi 👋, I'm Dr. Ahmed</h1>
-<h3 align="center">A passionate Medical Doctor and software engineering student with interest in solving real-world problems with Medicine/technology and dependable leadership.</h3>
+<p align="left"> <a href="https://twitter.com/drahmedhassen" target="blank"><img src="https://img.shields.io/twitter/follow/drahmedhassen?logo=twitter&style=for-the
 
 <p align="left"> <a href="https://twitter.com/drahmedhassen" target="blank"><img src="https://img.shields.io/twitter/follow/drahmedhassen?logo=twitter&style=for-the-badge" alt="drahmedhassen" /></a> </p>
 
