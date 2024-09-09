@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/drahmedhassen" target="blank"><img src="https://img.shields.io/twitter/follow/drahmedhassen?logo=twitter&style=for-the-badge" alt="drahmedhassen" /></a> </p>
 
-- 🔭 I’m currently working on **ALX-/Holberton school SE project courses**
+- 🔭 I’m currently working on **Front end/Udacity projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **HTML/CSS and JavaScript**
 
 - 👯 I’m looking to collaborate on **Real time problem solving innovations**
 
 - 🤝 I’m looking for help with **Software Engineering**
 
-- 💬 Ask me about **Linux, git/GitHub, C, Python**
+- 💬 Ask me about **Linux, git/GitHub, C, Python, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **ewex258@gmail.com**
 
